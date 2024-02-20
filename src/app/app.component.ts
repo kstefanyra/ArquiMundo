@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'pagina-arquimundo-app';
+  title = 'Arquimundo App Angular';
+  saludo = 'Saludos'
 }
